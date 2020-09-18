@@ -13,6 +13,6 @@ cruize_labs is a space that is welcoming to all who want to share, create, colla
 and learn with peers.</p>
 <!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>This is actually our 'coming soon' page.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
-If you would like to know more and be part of cruixers just type /contact on the terminal 
-below to get our contact details<!-- slightdelayhere-->, feel free to send us an email or a 
-tweet.<!-- longlongcomment -->
+If you would like to know more and be part of cruixers email us on cruixer.labs@gmail.com
+<!-- slightdelayhere-->
+feel free to send us an email or a tweet.<!-- longlongcomment -->
