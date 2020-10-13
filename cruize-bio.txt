@@ -1,6 +1,7 @@
 
 <span id="a">cruixer_01/137@alpha_user</span>:<span id="b">~</span><span id="c">$</span> define cruixer<br/><br/>
-H3110, We are cruixers 
+H3110,
+We are cruixers 
 - a community of creatives[artistically & technically].
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>We are a group of normal humans from earth brought together by the mutual love for tech, 
@@ -16,3 +17,7 @@ and learn with peers.</p>
 If you would like to know more and be part of cruixers email us on cruixer.labs@gmail.com
 <!-- slightdelayhere-->
 feel free to send us an email or a tweet.<!-- longlongcomment -->
+<p>You here for our weekly event? click 'Join Event' below to join session on Google Meet
+Logic: The super power of solving problem  
+<a href="https://meet.google.com/dht-psnc-vvn?authuser=0">Join Event</a> 
+</p>
